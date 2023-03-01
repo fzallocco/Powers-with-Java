@@ -3,7 +3,7 @@ Author: Filippo Zallocco
 Date: 2/28/2023
 Subject: Java code for power calculation
 
-In this file, I import the util class to create two scanner objects and fetch user inputs, which I later use as parameters for the power function I define in Power class. The program works with both integer and decimal inputs; however, the program returns only double data type outputs for the sake of simplicity. In case I review my code and find a more elegant solution to the output, I will replace this file with a new one. Please share your feedback!
+In this file, I import the util class to create two scanner objects and fetch user inputs, which I later use as parameters for the power function I define in the Power class. The program works with both integer and decimal inputs; however, the program returns only double data type outputs for the sake of simplicity. In case I review my code and find a more elegant solution to the output, I will replace this file with a new one. Please share your feedback!
 ******/
 import java.util.*;
 
